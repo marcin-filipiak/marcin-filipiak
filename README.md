@@ -8,5 +8,6 @@ Engineer • Teacher • Developer
 C | C++ | PHP | MySQL | SFML | GTK+ | Arduino | ESP8266 | Linux | Debian
 
 #### 🌐 Find me
-- Instagram: [@marcinfilipiak](https://instagram.com/marcin.filipiak)
+- Instagram: [@marcin.filipiak](https://instagram.com/marcin.filipiak)
+- Facebook: [@marcin.filipiak](https://facebook.com/marcin.filipiak)
 - Website: [NoweEnergie](https://NoweEnergie.org)
