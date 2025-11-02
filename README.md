@@ -5,7 +5,9 @@ Engineer • Teacher • Developer
 ⚙️ I enjoy creating simple tools, educational examples, and IoT projects.
 
 #### ⚡ Tech & Tools
-C | C++ | PHP | MySQL | SFML | GTK+ | Arduino | ESP8266 | ESP32 | Linux | Debian
+
+| C | C++ | PHP | MySQL | SFML | GTK+ | Arduino | ESP8266 | ESP32 | Linux Debian |
+|---|-----|-----|-------|------|------|---------|---------|-------|--------------|
 
 #### 🌐 Find me
 - Instagram: [@marcin.filipiak](https://instagram.com/marcin.filipiak)
