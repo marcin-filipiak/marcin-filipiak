@@ -9,35 +9,24 @@
 ⚙️ I enjoy creating simple tools, educational examples, and IoT projects.
 </p>
 
-<h4>⚡ Tech & Tools</h4>
-
+### ⚡ Tech & Tools
 
 ![C](https://img.shields.io/badge/C-0078D7?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-0099FF?style=for-the-badge)
+![GTK+](https://img.shields.io/badge/GTK%2B-5C9D3A?style=for-the-badge&logo=gtk&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-FF6F00?style=for-the-badge&logo=esp8266&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-2C2C54?style=for-the-badge&logo=esp32&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-FF6F00?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-2C2C54?style=for-the-badge&logo=espressif&logoColor=white)
 ![Debian](https://img.shields.io/badge/Linux%20Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
+### 🌐 Find me
 
-
-
-<h4>🌐 Find me</h4>
-<table style="border-collapse: collapse; width: 100%; text-align: center;">
-  <tr>
-    <td style="padding: 10px; border: 1px solid #d0d7de; background-color: #f6f8fa;">
-      <a href="https://instagram.com/marcin.filipiak" target="_blank" style="text-decoration: none; color: #E1306C; font-weight: bold;">Instagram</a>
-    </td>
-    <td style="padding: 10px; border: 1px solid #d0d7de; background-color: #ffffff;">
-      <a href="https://facebook.com/marcin.filipiak" target="_blank" style="text-decoration: none; color: #1877F2; font-weight: bold;">Facebook</a>
-    </td>
-    <td style="padding: 10px; border: 1px solid #d0d7de; background-color: #f6f8fa;">
-      <a href="https://NoweEnergie.org" target="_blank" style="text-decoration: none; color: #28a745; font-weight: bold;">Website</a>
-    </td>
-  </tr>
-</table>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/marcin.filipiak)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/marcin.filipiak)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@marcin_filipiak)
+[![Website](https://img.shields.io/badge/NoweEnergie.org-%2328a745.svg?style=for-the-badge&logo=Firefox&logoColor=white)](https://NoweEnergie.org)
 
 </div>
