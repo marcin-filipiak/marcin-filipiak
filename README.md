@@ -20,6 +20,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-1e1e1e?style=for-the-badge&logo=arduino&logoColor=00979D)
 ![ESP8266](https://img.shields.io/badge/ESP8266-1e1e1e?style=for-the-badge&logo=espressif&logoColor=FF6F00)
 ![ESP32](https://img.shields.io/badge/ESP32-1e1e1e?style=for-the-badge&logo=espressif&logoColor=2C2C54)
+![PIC](https://img.shields.io/badge/PIC-1e1e1e?style=for-the-badge&logo=espressif&logoColor=2C2C54)
 ![Debian](https://img.shields.io/badge/Debian-1e1e1e?style=for-the-badge&logo=debian&logoColor=A81D33)
 
 
